@@ -1,0 +1,8 @@
+
+{
+    "region" : "us-east-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "tag"           : "cloudtrailsearch:latest",
+    "vstoolkit-deployment-mode" : "PushOnly"
+}
